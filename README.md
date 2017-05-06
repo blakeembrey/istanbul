@@ -1,5 +1,7 @@
 ## Istanbul - a JS code coverage tool written in JS
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/istanbul.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://secure.travis-ci.org/gotwarlost/istanbul.png)](http://travis-ci.org/gotwarlost/istanbul)
 [![Dependency Status](https://gemnasium.com/gotwarlost/istanbul.png)](https://gemnasium.com/gotwarlost/istanbul)
 [![Coverage Status](https://img.shields.io/coveralls/gotwarlost/istanbul.svg)](https://coveralls.io/r/gotwarlost/istanbul?branch=master)
